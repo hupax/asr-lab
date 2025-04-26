@@ -1,5 +1,3 @@
-.idea
-./__pycache__/
 */__pycache__/
 */*/__pycache__/
 */*/*/__pycache__/
@@ -28,3 +26,11 @@ modelscope_models
 examples/aishell/llm_asr_nar/*
 *egg-info
 env/
+.gitignore
+.github
+models
+.pre-commit-config.yaml
+
+node_modules
+funasr-env
+.DS_Store
